@@ -26,5 +26,8 @@
     "files.associations": {
         "*.js": "javascript",
         "ostream": "cpp"
+    },
+    "files.exclude": {
+        "**/*.exe": true
     } // 效果效果比cpptools要好
 }
