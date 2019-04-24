@@ -25,7 +25,8 @@
     "clang.completion.enable": true,
     "files.associations": {
         "*.js": "javascript",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     },
     "files.exclude": {
         "**/*.exe": true
