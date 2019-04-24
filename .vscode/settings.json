@@ -29,5 +29,6 @@
     },
     "files.exclude": {
         "**/*.exe": true
-    } // 效果效果比cpptools要好
+    }, // 效果效果比cpptools要好
+    "editor.tabSize": 4
 }
