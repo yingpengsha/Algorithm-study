@@ -29,7 +29,9 @@
         "iostream": "cpp"
     },
     "files.exclude": {
-        "**/*.exe": true
+        "**/*.exe": true,
+        "**/*.pdb": true,
+        "**/*.ilk": true
     }, // 效果效果比cpptools要好
     "editor.tabSize": 4
 }
