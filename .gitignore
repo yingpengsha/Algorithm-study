@@ -2,3 +2,4 @@
 *.ilk
 *.pdb
 ipch
+test.cpp
